@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="G" edgedefault="directed">
+<node id="n0" labels=":Audience"><data key="labels">:Audience</data><data key="name">Interactive</data></node>
+<node id="n1" labels=":Audience"><data key="labels">:Audience</data><data key="name">Transmedia</data></node>
+<node id="n2" labels=":Audience"><data key="labels">:Audience</data><data key="name">Visual</data></node>
+<node id="n3" labels=":Audience"><data key="labels">:Audience</data><data key="name">Gamers</data></node>
+<node id="n4" labels=":Audience"><data key="labels">:Audience</data><data key="name">Partecipative</data></node>
+<node id="n5" labels=":Audience"><data key="labels">:Audience</data><data key="name">Personal</data></node>
+<node id="n6" labels=":Audience"><data key="labels">:Audience</data><data key="name">Active</data></node>
+<node id="n7" labels=":Audience"><data key="labels">:Audience</data><data key="name">Online</data></node>
+<node id="n8" labels=":Audience"><data key="labels">:Audience</data><data key="name">Physical</data></node>
+<node id="n9" labels=":Audience"><data key="labels">:Audience</data><data key="name">Reader</data></node>
+<node id="n10" labels=":Concept"><data key="labels">:Concept</data><data key="name">Memory</data></node>
+<node id="n11" labels=":Concept"><data key="labels">:Concept</data><data key="name">Archive</data></node>
+<node id="n12" labels=":Concept"><data key="labels">:Concept</data><data key="name">Citizenship</data></node>
+<node id="n13" labels=":Concept"><data key="labels">:Concept</data><data key="name">Network</data></node>
+<node id="n14" labels=":Concept"><data key="labels">:Concept</data><data key="name">WorldBuilding</data></node>
+<node id="n15" labels=":Concept"><data key="labels">:Concept</data><data key="name">Immigration</data></node>
+<node id="n16" labels=":Concept"><data key="labels">:Concept</data><data key="name">Route/Journey</data></node>
+<node id="n17" labels=":Concept"><data key="labels">:Concept</data><data key="name">Identity</data></node>
+<node id="n18" labels=":Concept"><data key="labels">:Concept</data><data key="name">Participative</data></node>
+<node id="n19" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Transmedia storytelling</data></node>
+<node id="n20" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Film storytelling</data></node>
+<node id="n21" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Augmented Reality Game storytelling</data></node>
+<node id="n22" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Digital Doc storytelling</data></node>
+<node id="n23" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Virtual Reality storytelling</data></node>
+<node id="n24" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Website storytelling</data></node>
+<node id="n25" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Book storytelling</data></node>
+<node id="n26" labels=":StoryTelling"><data key="labels">:StoryTelling</data><data key="name">Live Events storytelling</data></node>
+<node id="n27" labels=":Place"><data key="labels">:Place</data><data key="name">Cinema</data></node>
+<node id="n28" labels=":Place"><data key="labels">:Place</data><data key="name">Internet Achive</data></node>
+<node id="n29" labels=":Place"><data key="labels">:Place</data><data key="name">Internet</data></node>
+<node id="n30" labels=":Place"><data key="labels">:Place</data><data key="name">Gallery/Museum</data></node>
+<node id="n31" labels=":Place"><data key="labels">:Place</data><data key="name">Belgium</data></node>
+<node id="n32" labels=":Place"><data key="labels">:Place</data><data key="name">Italy</data></node>
+<node id="n33" labels=":Place"><data key="labels">:Place</data><data key="name">Public Space</data></node>
+<node id="n34" labels=":Place"><data key="labels">:Place</data><data key="name">Data Ingress</data></node>
+<node id="n35" labels=":Place"><data key="labels">:Place</data><data key="name">Book Store</data></node>
+<node id="n36" labels=":Medium"><data key="labels">:Medium</data><data key="name">Film</data></node>
+<node id="n37" labels=":Medium"><data key="labels">:Medium</data><data key="name">Book</data></node>
+<node id="n38" labels=":Medium"><data key="labels">:Medium</data><data key="name">Augmented Reality Game</data></node>
+<node id="n39" labels=":Medium"><data key="labels">:Medium</data><data key="name">Digital Doc</data></node>
+<node id="n40" labels=":Medium"><data key="labels">:Medium</data><data key="name">Virtual Reality</data></node>
+<node id="n41" labels=":Medium"><data key="labels">:Medium</data><data key="name">Website</data></node>
+<node id="n42" labels=":Medium"><data key="labels">:Medium</data><data key="name">Live Event</data></node>
+<node id="n43" labels=":Medium"><data key="labels">:Medium</data><data key="name">Artefact</data></node>
+<node id="n44" labels=":Medium"><data key="labels">:Medium</data><data key="name">Social Media</data></node>
+<node id="n45" labels=":Medium"><data key="labels">:Medium</data><data key="name">Data Reporting Dashboard</data></node>
+<node id="n46" labels=":Component"><data key="labels">:Component</data><data key="name">Field-interviews</data></node>
+<node id="n47" labels=":Component"><data key="labels">:Component</data><data key="name">Film-making</data></node>
+<node id="n48" labels=":Component"><data key="labels">:Component</data><data key="name">Photo</data></node>
+<node id="n49" labels=":Component"><data key="labels">:Component</data><data key="name">GSM</data></node>
+<node id="n50" labels=":Component"><data key="labels">:Component</data><data key="name">Javascript</data></node>
+<node id="n51" labels=":Component"><data key="labels">:Component</data><data key="name">HTML5</data></node>
+<node id="n52" labels=":Component"><data key="labels">:Component</data><data key="name">VR-Device</data></node>
+<node id="n53" labels=":Component"><data key="labels">:Component</data><data key="name">VR-Software</data></node>
+<node id="n54" labels=":Component"><data key="labels">:Component</data><data key="name">Audio</data></node>
+<node id="n55" labels=":Component"><data key="labels">:Component</data><data key="name">Development</data></node>
+<node id="n56" labels=":Component"><data key="labels">:Component</data><data key="name">Writing</data></node>
+<node id="n57" labels=":Component"><data key="labels">:Component</data><data key="name">Performance</data></node>
+<node id="n58" labels=":Component"><data key="labels">:Component</data><data key="name">Artefact building</data></node>
+<node id="n59" labels=":Component"><data key="labels">:Component</data><data key="name">Twitter</data></node>
+<node id="n60" labels=":Component"><data key="labels">:Component</data><data key="name">Instagram</data></node>
+<node id="n61" labels=":Component"><data key="labels">:Component</data><data key="name">Facebook</data></node>
+<node id="n62" labels=":Component"><data key="labels">:Component</data><data key="name">G+</data></node>
+<node id="n63" labels=":Component"><data key="labels">:Component</data><data key="name">Data Stream</data></node>
+<node id="n64" labels=":Component"><data key="labels">:Component</data><data key="name">Data Process &amp; Store</data></node>
+<node id="n65" labels=":Character"><data key="labels">:Character</data><data key="name">Marta</data></node>
+<node id="n66" labels=":Character"><data key="labels">:Character</data><data key="name">MiSa</data></node>
+<node id="n67" labels=":Experience"><data key="labels">:Experience</data><data key="name">use</data></node>
+<node id="n68" labels=":Experience"><data key="labels">:Experience</data><data key="name">holistic</data></node>
+<node id="n69" labels=":Tempo"><data key="labels">:Tempo</data><data key="name">daily</data></node>
+<node id="n70" labels=":Tempo"><data key="labels">:Tempo</data><data key="name">realtime</data></node>
+<node id="n71" labels=":Tempo"><data key="labels">:Tempo</data><data key="name">cinematographic</data></node>
+<node id="n72" labels=":Tempo"><data key="labels">:Tempo</data><data key="name">narrative</data></node>
+<node id="n73" labels=":Place"><data key="labels">:Place</data><data key="name">Film Story website</data></node>
+<node id="n74" labels=":Place"><data key="labels">:Place</data><data key="name">ARG Story website</data></node>
+<node id="n75" labels=":Place"><data key="labels">:Place</data><data key="name">DigitalDoc Story website</data></node>
+<node id="n76" labels=":Place"><data key="labels">:Place</data><data key="name">VR Story website</data></node>
+<node id="n77" labels=":Place"><data key="labels">:Place</data><data key="name">Book Story website</data></node>
+<node id="n78" labels=":Place"><data key="labels">:Place</data><data key="name">Live Events website</data></node>
+<node id="n79"></node>
+<edge id="e0" source="n65" target="n31" label="ACCESS"><data key="label">ACCESS</data></edge>
+<edge id="e1" source="n65" target="n32" label="ACCESS"><data key="label">ACCESS</data></edge>
+<edge id="e2" source="n66" target="n31" label="ACCESS"><data key="label">ACCESS</data></edge>
+<edge id="e3" source="n65" target="n32" label="ACCESS"><data key="label">ACCESS</data></edge>
+<edge id="e4" source="n19" target="n20" label="ORCHESTRATE"><data key="label">ORCHESTRATE</data></edge>
+<edge id="e5" source="n19" target="n21" label="ORCHESTRATE"><data key="label">ORCHESTRATE</data></edge>
+<edge id="e6" source="n19" target="n22" label="ORCHESTRATE"><data key="label">ORCHESTRATE</data></edge>
+<edge id="e7" source="n19" target="n23" label="ORCHESTRATE"><data key="label">ORCHESTRATE</data></edge>
+<edge id="e8" source="n19" target="n25" label="ORCHESTRATE"><data key="label">ORCHESTRATE</data></edge>
+<edge id="e9" source="n19" target="n26" label="ORCHESTRATE"><data key="label">ORCHESTRATE</data></edge>
+<edge id="e10" source="n24" target="n19" label="START"><data key="label">START</data></edge>
+<edge id="e11" source="n20" target="n25" label="HAS_SEQUEL"><data key="label">HAS_SEQUEL</data></edge>
+<edge id="e12" source="n21" target="n22" label="EXPAND"><data key="label">EXPAND</data></edge>
+<edge id="e13" source="n23" target="n20" label="DIVE_DEEP_IN"><data key="label">DIVE_DEEP_IN</data></edge>
+<edge id="e14" source="n26" target="n23" label="EXPAND"><data key="label">EXPAND</data></edge>
+<edge id="e15" source="n68" target="n19" label="BENEFIT_OF"><data key="label">BENEFIT_OF</data></edge>
+<edge id="e16" source="n20" target="n73" label="HAS"><data key="label">HAS</data></edge>
+<edge id="e17" source="n21" target="n74" label="HAS"><data key="label">HAS</data></edge>
+<edge id="e18" source="n22" target="n75" label="HAS"><data key="label">HAS</data></edge>
+<edge id="e19" source="n23" target="n76" label="HAS"><data key="label">HAS</data></edge>
+<edge id="e20" source="n25" target="n77" label="HAS"><data key="label">HAS</data></edge>
+<edge id="e21" source="n26" target="n78" label="HAS"><data key="label">HAS</data></edge>
+<edge id="e22" source="n73" target="n79" label="DERIVED_FROM"><data key="label">DERIVED_FROM</data></edge>
+<edge id="e23" source="n74" target="n79" label="DERIVED_FROM"><data key="label">DERIVED_FROM</data></edge>
+<edge id="e24" source="n75" target="n79" label="DERIVED_FROM"><data key="label">DERIVED_FROM</data></edge>
+<edge id="e25" source="n76" target="n79" label="DERIVED_FROM"><data key="label">DERIVED_FROM</data></edge>
+<edge id="e26" source="n77" target="n79" label="DERIVED_FROM"><data key="label">DERIVED_FROM</data></edge>
+<edge id="e27" source="n78" target="n79" label="DERIVED_FROM"><data key="label">DERIVED_FROM</data></edge>
+<edge id="e28" source="n0" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e29" source="n1" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e30" source="n2" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e31" source="n3" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e32" source="n4" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e33" source="n5" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e34" source="n6" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e35" source="n7" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e36" source="n8" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e37" source="n9" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e38" source="n73" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e39" source="n74" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e40" source="n75" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e41" source="n76" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e42" source="n77" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e43" source="n78" target="n34" label="INPUT_TO"><data key="label">INPUT_TO</data></edge>
+<edge id="e44" source="n34" target="n63" label="STREAM_TO"><data key="label">STREAM_TO</data></edge>
+<edge id="e45" source="n64" target="n63" label="PROCESS"><data key="label">PROCESS</data></edge>
+<edge id="e46" source="n45" target="n64" label="REPORTS"><data key="label">REPORTS</data></edge>
+<edge id="e47" source="n45" target="n19" label="PROVIDE_INSIGHTS_TO"><data key="label">PROVIDE_INSIGHTS_TO</data></edge>
+</graph>
+</graphml>

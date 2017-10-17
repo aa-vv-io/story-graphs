@@ -1,0 +1,122 @@
+node {
+  diameter: 50px;
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+}
+
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 8px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: '<type>';
+}
+
+node.Audience {
+  diameter: 75px
+  color: #68BDF6;
+  border-color: #5CA8DB;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+node.Concept {
+  diameter: 50px
+  color: #6DCE9E;
+  border-color: #60B58B;
+  text-color-internal: #FFFFFF;
+  caption: '{name}','{type}';
+}
+
+node.StoryTelling {
+  diameter: 50px
+  color: #DE4508;
+  border-color: #E06760;
+  text-color-internal: #FFFFFF;
+  caption: '{name}''{type}';
+}
+
+node.Place {
+  diameter: 50px
+  color: #DE9BF9;
+  border-color: #BF85D6;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+node.Tempo {
+  diameter: 50px
+  color: #FB95AF;
+  border-color: #E0849B;
+  text-color-internal: #FFFFFF;
+  caption: '{tipo}';
+}
+
+node.Medium {
+  diameter: 60px
+  color: #FFD86E;
+  border-color: #EDBA39;
+  text-color-internal: #604A0E;
+  caption: '{name}';
+}
+
+node.Component {
+  color: #68BDF6;
+  border-color: #5CA8DB;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+node.Characters {
+  color: #FBCB43;
+  border-color: #60B58B;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+node.Experience {
+  color: #FFD86E;
+  border-color: #EDBA39;
+  text-color-internal: #604A0E;
+  caption: '{type}';
+}
+
+node.Character {
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
+
+relationship.IS_TOLD_IN {
+  shaft-width: 6px;
+  color: #FFD86E;
+  border-color: #EDBA39;
+  text-color-internal: #604A0E;
+}
+
+relationship.BENEFIT_OF {
+  shaft-width: 3px;
+  color: #68BDF6;
+  border-color: #5CA8DB;
+  text-color-internal: #FFFFFF;
+}
+
+relationship.DEVELOP_WITH {
+  shaft-width: 3px;
+  color: #68BDF6;
+  border-color: #5CA8DB;
+  text-color-internal: #FFFFFF;
+}
+
+relationship.GAIN {
+  shaft-width: 3px;
+  color: #68BDF6;
+  border-color: #a0d543;
+  text-color-internal: #FFFFFF;
+}
